@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_homepage_homepages",
+  "info": {
+    "displayName": "Homepage"
+  },
+  "options": {},
+  "attributes": {
+    "maintitle": {
+      "type": "text"
+    },
+    "mainsubtitle": {
+      "type": "text"
+    },
+    "background": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

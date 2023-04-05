@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_column_card_column_cards",
+  "info": {
+    "displayName": "Column_card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "About_page_link": {
+      "type": "string"
+    },
+    "About_page_link_title": {
+      "type": "string"
+    }
+  }
+}
